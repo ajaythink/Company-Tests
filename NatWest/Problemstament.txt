@@ -1,0 +1,47 @@
+computer systems of N
+ernployees of a cornpany are
+arranged in a row. A technical fault
+in the power supply has caused
+some of the systems to turn OFF
+while the others remain ON.
+Because of this, the employees
+whose systems are OFF are unable
+to work. The company does not like
+to see its employees sitting idle. So
+until the technical team can find the
+actual cause of breakdown, the
+technical head devised E
+the minmurn length of able he
+needs to wrn all tik systems ON.
+Input
+The first line of the input consists of
+an integer- systemState_size,
+representing the number of systems
+The second line consists of N space-
+separated integers-
+systemState[1j,
+the initial state of esch syszern, ON
+(1) or OFF
+1 systemState_size, dist_size 105
+1 109
+1 i < dist size
+Note
+It is guaranteed that at least one
+system is ON and none of the
+systems are faulty.
+Example
+3
+.nteger- dÉt_säe, the
+number of distances (M).
+Tt'k last line consists of M space-
+separated integers
+- dist[1J, representi
+the distance of each system from
+the first system.
+Output
+Print an integer representing the
+minimum length of csble
+Adam needs to systems
+ON. If no cable is
+o.
+Constraints

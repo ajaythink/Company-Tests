@@ -1,0 +1,7 @@
+Maventic Company Coding Round (Pen Paper)
+Write a java program or function to find the longest substring without repeating characters in a given string. For example, if “mazaconceptofthedays” is the input string, then the second longest substring without repeating or duplicate characters is “oftheday”.
+
+input "mazaconceptoftheday"
+output "oftheday"
+
+Note: Without using inbuild function. basic function only allowed. 
