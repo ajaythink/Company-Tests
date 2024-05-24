@@ -1,4 +1,4 @@
-All Company test Solutions here \n
+All Company test Solutions here /n
 NatWest Company test solution \n
 The computer systems of N employees of a company are arranged in a row. A technical fault in the power supply
 has caused some of the systems to turn OFF while the others remain ON. Because of this, the employees 
