@@ -1,18 +1,4 @@
-computer systems of N
-ernployees of a cornpany are
-arranged in a row. A technical fault
-in the power supply has caused
-some of the systems to turn OFF
-while the others remain ON.
-Because of this, the employees
-whose systems are OFF are unable
-to work. The company does not like
-to see its employees sitting idle. So
-until the technical team can find the
-actual cause of breakdown, the
-technical head devised E
-the minmurn length of able he
-needs to wrn all tik systems ON.
+The computer systems of N employees of a company are arranged in a row. A technical fault in the power supply has caused some of the systems to turn OFF while the others remain ON. Because of this, the employees whose systems are OFF are unable to work. The company does not like to see its employees sitting idle. So bh til the technical team can find the actual cause of the breakdown, the technical head Adam has devised a temporary workaround for the OFF systems at a minimum cost. Adam decides to connect all the OFF systems to the nearest ON system with the shortest possible length of cable. To make this happen, he calculates the distance of each system from the first
 Input
 The first line of the input consists of
 an integer- systemState_size,
